@@ -1,0 +1,33 @@
+# LaTeX / Beamer
+*.toc
+*.bbl
+*.blg
+*.aux
+*.log
+*.nav
+*.snm
+*.out
+*.fls
+*.temp
+*.vrb
+*-blx.bib
+*.run.xml
+*.synctex.gz
+*.bcf
+*.fdb_latexmk
+
+# Python
+*.pyc
+__pycache__
+*.mypy_cache
+.pytype
+
+# Jupyter
+*.ipynb_checkpoints
+
+# OS X
+.DS_Store
+
+# Vim
+.*.sw[omp]
+
